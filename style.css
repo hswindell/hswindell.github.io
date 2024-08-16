@@ -3,3 +3,11 @@ body {
 	margin: auto;
 	max-width: 750px;
 }
+
+#navbar {
+	padding: 0px;
+}
+
+#navbar > li {
+	display: inline;
+}
