@@ -1,12 +1,12 @@
 body {
-	background-color: #ffe9f3;
+	background-color: #f9f4fc;
 	font-family: sans-serif;
 	margin: auto;
 	max-width: 750px;
 }
 
 #navbar {
-	background-color: #ffacd3;
+	background-color: #e6b6cd;
 	padding: 5px;
 }
 
@@ -15,11 +15,11 @@ body {
 }
 
 #navbar a {
-	color: #960046;
+	color: #73475c;
 	padding: 5px;
 	text-decoration: none;
 }
 
 #navbar a:hover {
-	color: #40001e;
+	color: #2e0a1c;
 }
