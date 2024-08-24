@@ -30,3 +30,21 @@ body {
 #navbar a:hover {
 	color: #2e0a1c;
 }
+
+#picture {
+	float: left;
+	margin-right: 16px;
+}
+
+#picture img {
+	height: 343px;
+	width: 287px;
+}
+
+@media (max-width: 800px) {
+	#picture {
+		float: none;
+		margin: auto;
+		text-align: center;
+	}
+}
