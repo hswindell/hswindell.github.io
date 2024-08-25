@@ -48,3 +48,13 @@ body {
 		text-align: center;
 	}
 }
+
+#main-picture {
+	margin: auto;
+	text-align: center;
+}
+
+#main-picture img {
+	height: 393px;
+	width: 328px;
+}
