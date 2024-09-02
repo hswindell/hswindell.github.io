@@ -37,8 +37,8 @@ body {
 }
 
 #picture img {
-	height: 343px;
-	width: 287px;
+	height: 275px;
+	width: 235px;
 }
 
 @media (max-width: 800px) {
@@ -55,6 +55,6 @@ body {
 }
 
 #main-picture img {
-	height: 393px;
-	width: 328px;
+	height: 550px;
+	width: 470px;
 }
