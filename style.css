@@ -30,33 +30,3 @@ body {
 #navbar a:hover {
 	color: #2e0a1c;
 }
-
-/*
-#picture {
-	float: left;
-	margin-right: 16px;
-}
-
-#picture img {
-	height: 275px;
-	width: 235px;
-}
-
-@media (max-width: 800px) {
-	#picture {
-		float: none;
-		margin: auto;
-		text-align: center;
-	}
-}
-
-#main-picture {
-	margin: auto;
-	text-align: center;
-}
-
-#main-picture img {
-	height: 392px;
-	width: 335px;
-}
-*/
